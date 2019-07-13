@@ -40,6 +40,10 @@
 				{
 					"description": "House cleaning",
 					"amount": "70"
+				},
+				{
+					"description": "qwerty",
+					"amount": "100"
 				}
 			]
 		}
